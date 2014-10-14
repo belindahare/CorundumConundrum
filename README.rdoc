@@ -10,3 +10,9 @@ Also implemented paperclip for the first time.
 
 This project worked off the program implemented by The Smithsonian Institute in which scientists are allowed to use any mineral specimen so long as the results of their testing are sent back to the museum with the speciman.
 In this project, a user can create/edit/delete a museum, create/edit/delete a scientist, and create/edit/delete a specimen.
+
+Technologies Used:
+Ruby on Rails
+Bootstrap
+HTML
+CSS
