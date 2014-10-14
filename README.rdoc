@@ -1,28 +1,12 @@
 == README
+To run locally:
+  Clone repository
+  bundle install
+  rake db:create db:migrate
+  start server
+  
+This was our first team project at The Iron Yard.  We had one week to complete it and the project of our choosing while learning join tables and relationships.
+Also implemented paperclip for the first time.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This project worked off the program implemented by The Smithsonian Institute in which scientists are allowed to use any mineral specimen so long as the results of their testing are sent back to the museum with the speciman.
+In this project, a user can create/edit/delete a museum, create/edit/delete a scientist, and create/edit/delete a specimen.
